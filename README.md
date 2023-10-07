@@ -1,5 +1,7 @@
 ## M5Dial DigitalRain Anim
 
+![pic_01](/assets/pic_01.jpg)
+
 library
 ---------------------------
 
