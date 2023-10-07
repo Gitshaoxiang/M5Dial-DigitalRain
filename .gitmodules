@@ -1,0 +1,12 @@
+[submodule "lib/M5GFX"]
+	path = lib/M5GFX
+	url = https://github.com/m5stack/M5GFX.git
+[submodule "lib/M5Unified"]
+	path = lib/M5Unified
+	url = https://github.com/m5stack/M5Unified.git
+[submodule "lib/TP_Arduino_DigitalRain_Anim"]
+	path = lib/TP_Arduino_DigitalRain_Anim
+	url = https://github.com/0015/TP_Arduino_DigitalRain_Anim.git
+[submodule "lib/M5Dial"]
+	path = lib/M5Dial
+	url = https://github.com/m5stack/M5Dial.git
